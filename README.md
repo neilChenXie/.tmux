@@ -38,3 +38,7 @@ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 # Useful Tool
 
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+
+## Bug
+
+* [freeze](http://superuser.com/questions/553330/vim-freezes-inside-tmux)
