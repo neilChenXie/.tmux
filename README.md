@@ -34,3 +34,7 @@ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 ## Ref
 
 * [tmux.conf](https://github.com/hatoishi/dotfiles/blob/master/tmux.conf)
+
+# Useful Tool
+
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator)
