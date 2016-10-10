@@ -38,6 +38,7 @@ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 # Useful Tool
 
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+* [tumxinator completion bash](https://github.com/tmuxinator/tmuxinator/blob/master/completion/tmuxinator.bash)
 
 ## Bug
 
